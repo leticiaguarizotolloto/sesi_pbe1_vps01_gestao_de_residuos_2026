@@ -1,22 +1,22 @@
-# ♻️ Gestão de Resíduos
+#  Gestão de Resíduos
 
 Projeto desenvolvido para o **PBE1 - VPS01 2026**, com o objetivo de criar uma aplicação simples para o **cadastro e gerenciamento de resíduos**.
 
 O sistema permite registrar informações sobre resíduos, consultar os registros cadastrados, buscar registros específicos, atualizar informações e excluir registros.
 
-## 📌 Sobre o projeto
+##  Sobre o projeto
 
-A aplicação foi desenvolvida utilizando **Node.js** e **Express**, com os dados armazenados inicialmente em um arquivo JSON.
+O sistema foi desenvolvido utilizando **Node.js** e **Express**, com os dados armazenados inicialmente em um arquivo JSON.
 
 Cada registro de resíduo possui informações como:
 
-* 📍 Local
-* ♻️ Tipo de resíduo
-* ⚠️ Nível de risco
-* 📅 Data de registro
-* 🔄 Status
+*  Local
+*  Tipo de resíduo
+*  Nível de risco
+*  Data de registro
+*  Status
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 A aplicação possui as seguintes operações:
 
@@ -26,7 +26,7 @@ A aplicação possui as seguintes operações:
 * **PUT** — atualizar os dados de um resíduo;
 * **DELETE** — excluir um resíduo.
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 * HTML
 * JavaScript
@@ -36,7 +36,7 @@ A aplicação possui as seguintes operações:
 * Thunder Client
 * Git e GitHub
 
-## 📂 Estrutura do projeto
+##  Estrutura do projeto
 
 ```text
 sesi_pbe1_vps01_gestao_de_residuos_2026/
@@ -54,7 +54,7 @@ sesi_pbe1_vps01_gestao_de_residuos_2026/
 └── UPDATE.png
 ```
 
-## ▶️ Como executar o projeto
+##  Como executar o projeto
 
 ### 1. Instalar as dependências
 
@@ -80,7 +80,7 @@ A aplicação pode ser acessada pelo navegador através de:
 http://localhost:3000
 ```
 
-## 📸 Demonstração
+##  Demonstração
 
 ### Página inicial
 
@@ -110,6 +110,6 @@ http://localhost:3000
 
 ![DELETE](DELETE.png)
 
-## 🎯 Objetivo
+##  Objetivo
 
 O projeto tem como objetivo aplicar na prática os conhecime
