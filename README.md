@@ -109,7 +109,3 @@ http://localhost:3000
 ### DELETE — Exclusão de resíduo
 
 ![DELETE](DELETE.png)
-
-##  Objetivo
-
-O projeto tem como objetivo aplicar na prática os conhecime
