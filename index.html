@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro de Resíduos</title>
+</head>
+<body>
+
+    <header>
+        <h1>Cadastro de Resíduos</h1>
+    </header>
+
+    <main>
+
+        <form action="http://localhost:3000/ocorrencias" method="post">
+
+            <input 
+                type="text" 
+                name="local" 
+                placeholder="Local do resíduo" 
+                required
+            >
+
+            <input 
+                type="text" 
+                name="tipo_residuo" 
+                placeholder="Tipo de resíduo" 
+                required
+            >
+
+            <input 
+                type="text" 
+                name="nivel_risco" 
+                placeholder="Nível de risco" 
+                required
+            >
+
+            <input 
+                type="date" 
+                name="data_registro" 
+                required
+            >
+
+            <input 
+                type="text" 
+                name="status" 
+                placeholder="Status" 
+                required
+            >
+
+            <input 
+                type="submit" 
+                value="Cadastrar"
+            >
+
+        </form>
+
+    </main>
+ <footer><h2>by leticiaguarizotolloto</h2></footer>
+</body>
+</html>

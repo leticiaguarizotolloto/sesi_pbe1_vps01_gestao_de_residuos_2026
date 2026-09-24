@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "local": "Rua das Flores, 120",
+        "tipo_residuo": "Eletrônico",
+        "nivel_risco": "Alto",
+        "data_registro": "2026-09-23",
+        "status": "Pendente"
+    },
+    {
+        "id": 2,
+        "local": "Rua Vale Verde, 200",
+        "tipo_residuo": "Plástico",
+        "nivel_risco": "Baixo",
+        "data_registro": "2026-09-26",
+        "status": "Pendente"
+    },
+    {
+        "id": 3,
+        "local": "Rua Andorinhas, 315",
+        "tipo_residuo": "Orgânico",
+        "nivel_risco": "Baixo",
+        "data_registro": "2026-09-16",
+        "status": "Pendente"
+    },
+    {
+        "id": 4,
+        "local": "Rua Primavera, 90",
+        "tipo_residuo": "Vidro",
+        "nivel_risco": "Médio",
+        "data_registro": "2026-09-18",
+        "status": "Pendente"
+    },
+    {
+        "id": 5,
+        "local": "Rua do Bosque, 70",
+        "tipo_residuo": "Têxtil",
+        "nivel_risco": "Baixo",
+        "data_registro": "2026-09-24",
+        "status": "Pendente"
+    }
+]
